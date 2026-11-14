@@ -19,7 +19,7 @@ p{margin:0}
 .btn-honey{background:var(--honey);color:var(--ink)}
 .btn-honey:hover{color:var(--ink)}
 .btn-line{border-color:var(--green);color:var(--green)}
-.btn-white{background:#fff;color:var(--green)}
+.btn-white,.green .btn-white,.red .btn-white{background:#fff;color:var(--green)}
 .muted{color:var(--muted)}
 
 /* Banner + nav */
